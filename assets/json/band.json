@@ -4,7 +4,7 @@
     {
       "fullName": "Markus Schnurpfeil",
       "picture": "markus.jpg",
-      "pictureCredit": "unknown",
+      "pictureCredit": "",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
@@ -16,7 +16,7 @@
     }, {
       "fullName": "Thomas Schnurpfeil",
       "picture": "thomas.jpg",
-      "pictureCredit": "unknown",
+      "pictureCredit": "",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
@@ -28,7 +28,7 @@
     }, {
       "fullName": "Dominik Kreutz",
       "picture": "dominik.jpg",
-      "pictureCredit": "unknown",
+      "pictureCredit": "",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
@@ -40,7 +40,7 @@
     }, {
       "fullName": "Carsten Schacher",
       "picture": "carsten.jpg",
-      "pictureCredit": "unknown",
+      "pictureCredit": "",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
@@ -52,7 +52,7 @@
     }, {
       "fullName": "Markus Lackmann",
       "picture": "lacky.jpg",
-      "pictureCredit": "unknown",
+      "pictureCredit": "",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
