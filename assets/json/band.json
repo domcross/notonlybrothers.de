@@ -20,19 +20,19 @@
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
-        "de": "<p>Die zweite Gitarre der Combo. Bei den Brothers langt er mächtig in die sechs Saiten seiner Tele. Im wahren Leben arbeitet er als Ingenieur in der Elektrotechnik-Branche.</p>",
+        "de": "<p>Die zweite Gitarre der Combo. Bei den Brothers langt er in die sechs Saiten seiner Tele. Im wahren Leben arbeitet er als Ingenieur in der Elektrotechnik-Branche.</p>",
         "es": "<p>Lorem ipsum dolor sit amet, m.</p>"
       },
       "roles": ["guitar"],
       "range": "2007-"
     }, {
-      "fullName": "Dominik Kreutz-Koesler",
+      "fullName": "Dominik Kreutz",
       "picture": "dominik.jpg",
       "pictureCredit": "unknown",
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
-        "de": "<p>Der Kollege an den Tasten. Für Not Only Brothers produziert er die fetten Keyboard-Sounds. Ansonsten betätigt er sich als Anwendungsentwickler in der IT-Abteilung eines Versicherungskonzerns.</p>",
+        "de": "<p>Der Kollege an den Tasten. Fuer Not Only Brothers produziert er die fetten Keyboard-Sounds. Ansonsten betaetigt er sich als Anwendungsentwickler in der IT-Abteilung eines Versicherungskonzerns.</p>",
         "es": "<p>Lorem ipsum dolor sit amet, m.</p>"
       },
       "roles": ["keyboard"],
@@ -44,7 +44,7 @@
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
-        "de": "<p>Der Doktor am Bass. Bei Not Only Brothers zupft er die dicken Saiten. Außerhalb des Proberaums praktiziert er Tag und Nacht als Mediziner.</p>",
+        "de": "<p>Der Doktor am Bass. Bei Not Only Brothers zupft er die dicken Saiten. Ausserhalb des Proberaums praktiziert er Tag und Nacht als Mediziner.</p>",
         "es": "<p>Lorem ipsum dolor sit amet, m.</p>"
       },
       "roles": ["bass"],
@@ -56,12 +56,14 @@
       "bio": {
         "en": "<p>Lorem ipsum dolor sit amet, </p>",
         "fr": "<p>Lorem ipsum dolor sit amet, m.</p>",
-        "de": "<p>Unser Mann am Schlagwerk. Wenn er nicht bei Not Only Brothers auf die Felle drischt, arbeitet er als hauptberuflicher Pädagoge.</p>",
+        "de": "<p>Unser Mann am Schlagwerk. Wenn er nicht bei Not Only Brothers auf die Felle drischt, arbeitet er als hauptberuflicher Paedagoge.</p>",
         "es": "<p>Lorem ipsum dolor sit amet, m.</p>"
       },
       "roles": ["drums"],
       "range": "2007-"
     }
+  ],
+  "pastMembers": [
   ],
   "releases": [
     {
@@ -98,90 +100,90 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/"            
+          "url": ""            
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/"            
+          "url": ""            
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/"            
+          "url": ""            
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/"            
+          "url": ""            
         }
       ],
       "tracks": [
         {
           "title": "Numbers",
           "duration": "3:35",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Your Ghosts",
           "duration": "3:44",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""        
         },
         {
           "title": "Still Any Good",
           "duration": "6:02",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Life Itself",
           "duration": "4:41",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Everything They Say",
           "duration": "5:20",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "A Real Mess",
           "duration": "4:12",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "The Concept",
           "duration": "3:26",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Anything Could Happen",
           "duration": "4:19",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Swimming in a stream",
           "duration": "6:49",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Move On",
           "duration": "4:48",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Cosmopolitan Man",
           "duration": "4:36",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         },
         {
           "title": "Sitting Still",
           "duration": "3:20",
-          "composer": "Not Only Brothers",
-          "author": "Not Only Brothers"
+          "composer": "",
+          "author": ""
         }
       ]
     }
