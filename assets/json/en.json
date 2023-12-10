@@ -1,7 +1,7 @@
 {
   "band": {
-    "name": "NAC",
-    "desc": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw."
+    "name": "Not Only Brothers",
+    "desc": "Tight Rock from Bonn, Germany"
   },
   "roles": {
     "leadvocals": "Lead Singer",
@@ -12,10 +12,10 @@
     "doublebass": "Double Bass",
     "drums": "Drums"
   },
-  "listenLink": "Check the discography",
+  "listenLink": "Discography",
   "treeLink": "Find us online",
   "musicians": "Musicians",
-  "works": "Pieces",
+  "works": "Songs",
   "videos": "Videos",
   "learnMore": "Click to read more",
   "pastMembers": "Past members",
@@ -31,8 +31,6 @@
   "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
   "lang": {
     "en": "🇬🇧 English",
-    "fr": "🇫🇷 French",
-    "es": "🇪🇸 Spanish",
-    "de": "🇩🇪 German"
+    "de": "🇩🇪 Deutsch"
   }
 }
