@@ -1,7 +1,7 @@
 {
   "band": {
-    "name": "Name der Musikgruppe",
-    "desc": "Beschreibung du groupe"
+    "name": "Not Only Brothers",
+    "desc": "Tight Rock aus Bonn
   },
   "roles": {
     "leadvocals": "Hauptgesang",
@@ -14,8 +14,8 @@
   },
   "listenLink": "Siehe die Diskographie",
   "treeLink": "Finden Sie uns im Internet",
-  "musicians": "Die Musiker",
-  "works": "Stücke",
+  "musicians": "Die Band",
+  "works": "Musik",
   "videos": "Videos",
   "pastMembers": "Frühere Mitglieder",
   "listenOnline": "Online anhören",
@@ -31,8 +31,6 @@
   "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
   "lang": {
     "en": "🇬🇧 Englisch",
-    "fr": "🇫🇷 Französisch",
-    "es": "🇪🇸 Spanische",
     "de": "🇩🇪 Deutsch"
   }
 }
