@@ -11,7 +11,7 @@
         "de": "<p>Die Stimme der Band. Bei Not Only Brothers singt er sich die Seele aus dem Leib und klampft die Leadgitarre. Wenn er beides nicht tut, agiert er als Unternehmer in der Medienbranche.</p>",
         "es": "<p>Lorem ipsum dolor sit amet, m.</p>"
       }, 
-      "roles": ["vocals"],
+      "roles": ["leadvocals"],
       "range": "2007-"
     }, {
       "fullName": "Thomas Schnurpfeil",
