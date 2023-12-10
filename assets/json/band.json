@@ -65,92 +65,92 @@
   ],
   "releases": [
     {
-      "title": "Dystopie",
-      "artist": "NAC",
-      "cover": "Dystopie.webp",
-      "audio": "DystopieExtract.mp3",
-      "date": "2021-11-09",
-      "duration": "46:30",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
+      "title": "Tight",
+      "artist": "Not Only Brothers",
+      "cover": "Tight.webp",
+      "audio": "CosmopolitanMan.mp3",
+      "date": "2007-12-01",
+      "duration": "55:00",
+      "label": "Echt Joot Medien",
+      "labelLink": "https://echt-jood-medien.de/medien.html",
       "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/44p4oWCfMZKX9HJt64ncoj"
+          "url": "https://open.spotify.com/intl-de/album/1TtH47VcJRJJSFQCtPmeEJ"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/dystopie/1588780184"
+          "url": "https://music.apple.com/de/album/tight/1657087619"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HRC1LJS"
+          "url": "https://amazon.de/music/player/albums/B0BNM837VJ?marketplaceId=A1PA6795UKMFR9&musicTerritory=DE&ref=dm_sh_pFvNJhjC9B6SGO2EkZXXXdyo0"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/263543602"
+          "url": "https://www.deezer.com/de/album/381935747"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
+          "url": "https://youtube.com/playlist?list=OLAK5uy_lzpN-i4rWrg7O8szDlAbawzRQaAQhWRQU&feature=shared"
         }, {
           "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/dystopie"
+          "url": "https://notonlybrothers.bandcamp.com/album/tight"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/200014684"            
+          "url": "https://listen.tidal.com/album/"            
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Dystopie"            
+          "url": "https://genius.com/albums/"            
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/20399056-NAC-Dystopie"            
+          "url": "https://www.discogs.com/release/"            
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/39049941-c348-4aeb-b86b-a5af7093d3ea"            
+          "url": "https://musicbrainz.org/release/"            
         }
       ],
       "tracks": [
         {
-          "title": "Crad' Bar Boogie",
-          "duration": "6:48",
-          "composer": "Pierre Toïgo",
+          "title": "Numbers",
+          "duration": "3:35",
+          "composer": "Not Only Brothers",
           "author": "David Béché"
         },
         {
           "title": "Bad Dreams",
           "duration": "6:08",
-          "composer": "Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "David Béché, Philippe Dromard"
         },
         {
           "title": "Dystopie",
           "duration": "6:12",
-          "composer": "Philippe Dromard, Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "Arthur Beaulieu"
         },
         {
           "title": "Nature Humaine",
           "duration": "6:03",
-          "composer": "Lionel Baudet, Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "Arthur Beaulieu, Lionel Baudet"
         },
         {
           "title": "Amor Ciego",
           "duration": "6:23",
-          "composer": "Lionel Baudet, Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "David Béché"
         },
         {
           "title": "Tramp",
           "duration": "6:43",
-          "composer": "Arthur Beaulieu, Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "David Béché"
         },
         {
           "title": "Résilience (feat. Tom)",
           "duration": "8:09",
-          "composer": "Pierre Toïgo",
+          "composer": "Not Only Brothers",
           "author": "David Béché"
         }
       ]
