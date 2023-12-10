@@ -4,18 +4,18 @@
     "desc": "Tight Rock aus Bonn"
   },
   "roles": {
-    "leadvocals": "Hauptgesang",
-    "backvocals": "Chöre",
+    "leadvocals": "Lead Vocals",
+    "backvocals": "Background Vocals",
     "guitar": "Gitarre",
-    "keyboard": "Tastatur",
-    "bass": "Niedrig",
+    "keyboard": "Keyboards",
+    "bass": "Bass",
     "doublebass": "Bass",
-    "drums": "Batterie"
+    "drums": "Schlagzeug"
   },
-  "listenLink": "Siehe die Diskographie",
+  "listenLink": "Diskographie",
   "treeLink": "Finden Sie uns im Internet",
   "musicians": "Die Band",
-  "works": "Musik",
+  "works": "Songs",
   "videos": "Videos",
   "pastMembers": "Frühere Mitglieder",
   "listenOnline": "Online anhören",
@@ -30,7 +30,7 @@
   "close": "Schließen",
   "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
   "lang": {
-    "en": "🇬🇧 Englisch",
+    "en": "🇬🇧 English",
     "de": "🇩🇪 Deutsch"
   }
 }
